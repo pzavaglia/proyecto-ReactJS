@@ -1,0 +1,9 @@
+achivo creado para ingresar los distintos comandos: 
+
+para iniciar el npm: 
+
+npm init vite@latest
+
+para crear el host:
+npm run dev 
+
